@@ -1,4 +1,4 @@
-<h1 align="center">SCU</h1>
+<h1 align="center">Vũ Thiên Trường aka Thèn Scu</h1>
 
 ---
 
