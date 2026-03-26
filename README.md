@@ -1,4 +1,4 @@
-<h1 align="center">Precision. L</h1>
+<h1 align="center">SCU</h1>
 
 ---
 
@@ -10,7 +10,6 @@ Hi, I'm **Vũ Thiên Trường (aka Thèn Scu)**.
 A passionate developer from HUIT, dedicated to mastering the art of Cybersecurity and Artificial Intelligence.
 
 🎯 **Focus:** Web Penetration Testing (SQLi, Path Traversal, RCE) & Bug Bounty.
-🧠 **Interest:** AI/Deep Learning optimization (ST-GCN, K-Means) & Cross-platform Development.
 🚀 **Philosophy:** Secure by Design, Continuous Learning, and keeping it fun.
 
 ---
