@@ -8,8 +8,7 @@
 - 🎯 **Focus:** Web Penetration Testing (SQLi, Path Traversal, RCE) & Bug Bounty.
 - 🚀 **Philosophy:** Secure by Design, Continuous Learning, and keeping it fun.
 - 💡 **Currently working on:** Java Spring Boot e-commerce, mobile apps with Flutter, and load balancing with Nginx.
-- 🌱 **Currently learning:** PHP and advanced bug bounty techniques.
-- ⚡ **Fun fact:** Arsenal fan, LEGO builder, and currently on a gym grind to crush my weight loss goals.
+
 
 ---
 
