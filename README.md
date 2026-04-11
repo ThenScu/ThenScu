@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ The Technical Arsenal
+## 🛠️ The Technical
 
 | 💻 Languages | 🚀 Frameworks & Mobile | 🛡️ Security & DevOps |
 | :--- | :--- | :--- |
